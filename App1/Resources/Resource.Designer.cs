@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("FCM.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("App1.Resource", IsApplication=true)]
 
-namespace FCM
+namespace App1
 {
 	
 	
@@ -53,22 +53,6 @@ namespace FCM
 			}
 			
 			private Drawable()
-			{
-			}
-		}
-		
-		public partial class Integer
-		{
-			
-			// aapt resource value: 0x7f050000
-			public const int google_play_services_version = 2131034112;
-			
-			static Integer()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Integer()
 			{
 			}
 		}
